@@ -1,13 +1,10 @@
 # gs2http
 
-**gs2http** is a small tool to translate [Google Storage][wp]’s `gs://` URLs
-into `https://` ones that can be open in any browser.
+This webpage translates [Google Storage][wp]’s `gs://` URLs to `https://`.
 
-You can see it live at [oscaro.github.io/gs2http/](https://oscaro.github.io/gs2http/).
+It's online @
+[bw2.github.io/gs2http/](https://bw2.github.io/gs2http/)
 
-[wp]: https://en.wikipedia.org/wiki/Google_Storage
 
-## Deployment
-
-The whole tool is just a single `index.html` you can drop anywhere. It doesn’t
-send any data to any server; everything’s stay in your browser.
+This is a slightly modified fork of  
+https://github.com/oscaro/gs2http
